@@ -1,3 +1,5 @@
+<img width="840" alt="Screenshot 2024-02-19 at 19 56 45" src="https://github.com/WPEM/.github/assets/86995074/aa7a74f6-61b3-4645-8533-8abb70d30ee6">
+
 # A X-ray Diffraction Refinement Software : [WPEM](https://github.com/Bin-Cao/WPEM)
 
 + [XRED](https://github.com/WPEM/XRED) ：X-ray phase Identification public Experimental Dataset (XRed)
@@ -5,7 +7,8 @@
 + ...
   
 ---
-![WechatIMG954](https://github.com/Bin-Cao/WPEM/assets/86995074/65b44e3f-257b-4ea7-8b54-174a1359449f)
+
+
 
 
 ---
