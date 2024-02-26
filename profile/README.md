@@ -6,8 +6,6 @@
 + [CPICANN](https://github.com/WPEM/CPICANN) : Crystallographic Phase Identifier of Convolutional self-Attention Neural Network (CPICANN)
 + ...
   
----
-
 
 
 
