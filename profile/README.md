@@ -8,7 +8,7 @@
 
 + [XRED](https://github.com/WPEM/XRED) ：X-ray phase Identification public Experimental Dataset (XRed)
 + [CPICANN](https://github.com/WPEM/CPICANN) : Crystallographic Phase Identifier of Convolutional self-Attention Neural Network (CPICANN)
-+ [SimXRDdb](https://github.com/Bin-Cao/SimXRDdb/tree/main) : Simulated XRD Databased, ALL DATA are OPEN-sourced
++ [SimXRD](https://github.com/Bin-Cao/SimXRD) : Simulated XRD Databased, ALL DATA are OPEN-sourced
 + ...
   
 
