@@ -3,8 +3,8 @@
 # [X-ray Diffraction Refinement](https://github.com/Bin-Cao/WPEM/blob/main/intro/WPEM%20%20AI%20XRD%20analyzer.pdf) Software: [WPEM](https://github.com/Bin-Cao/WPEM)
 
 
-### Home Page : [loc](https://github.com/Bin-Cao/WPEM) | Application in researches : [wpem](https://bin-cao.github.io/caobin/-wpem) 
-
+# Home Page : [loc](https://github.com/Bin-Cao/WPEM) | Application in researches : [wpem](https://bin-cao.github.io/caobin/-wpem) 
+--
 ## Key Resources
 
 - [XRED](https://github.com/WPEM/XRED): X-ray phase Identification public Experimental Dataset (XRed)
