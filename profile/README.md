@@ -17,7 +17,7 @@
 ## Toolkit
 
 - [AngleCalculator](https://github.com/Bin-Cao/WPEM/tree/main/AngleCalculator): This application calculates the angle between two vectors using the given components V1 and V2, and lattice constants a, b, c, and lattice angles alpha, beta, gamma.
-- [exQE](https://mp.weixin.qq.com/s/vRbKu7cogBuTXGGxixhKMA): Assistive tools for DFT calculation, modeling, and data processing in Quantum Espresso.
+- [exQE](https://mp.weixin.qq.com/s/vRbKu7cogBuTXGGxixhKMA): Assistive tools for DFT calculation, modeling, and data processing in [Quantum Espresso](https://www.quantum-espresso.org/).
 
 ## Kaggle Competition
 
