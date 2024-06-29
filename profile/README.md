@@ -1,7 +1,7 @@
 <img width="600" alt="Screenshot 2024-02-19 at 19 56 45" src="https://github.com/WPEM/.github/assets/86995074/aa7a74f6-61b3-4645-8533-8abb70d30ee6">
 
-# [X-ray Diffraction Refinement](https://github.com/Bin-Cao/WPEM/blob/main/intro/WPEM%20%20AI%20XRD%20analyzer.pdf) Software: [WPEM](https://github.com/Bin-Cao/WPEM)
 
+# AI XRD analyzer : [WPEM](https://github.com/Bin-Cao/WPEM)
 
 ## Home Page : [loc](https://github.com/Bin-Cao/WPEM) | Application in researches : [wpem](https://bin-cao.github.io/caobin/-wpem) 
 
