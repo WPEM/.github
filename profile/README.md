@@ -3,7 +3,7 @@
 
 # AI XRD analyzer : [WPEM](https://github.com/Bin-Cao/WPEM)
 
-## Application in researches : [wpem](https://bin-cao.github.io/caobin/-wpem) 
+## Application in researches : [click](https://bin-cao.github.io/caobin/-wpem) 
 
 ---
 
