@@ -12,7 +12,7 @@
 ## Key Resources
 
 - [XRED](https://github.com/WPEM/XRED): X-ray phase Identification public Experimental Dataset (XRed)
-- [SimXRD-4M](https://github.com/Bin-Cao/SimXRD): X-ray symmetry Identification database and benchmark | [arXiv](https://arxiv.org/pdf/2406.15469v1)
+- [SimXRD-4M](https://github.com/Bin-Cao/SimXRD): X-ray symmetry Identification database and benchmark | [ArXiv](https://arxiv.org/pdf/2406.15469v1)
 - [CPICANN](https://github.com/WPEM/CPICANN): Crystallographic Phase Identifier of Convolutional self-Attention Neural Network (CPICANN) | [IUCrJ](https://doi.org/10.1107/S2052252524005323)
 - [Bgolearn](https://github.com/Bin-Cao/Bgolearn): A Bayesian global optimization package for site optimization in XRD refinement | [M&D](https://www.sciencedirect.com/science/article/pii/S0264127524002946?via%3Dihub)
 
