@@ -27,7 +27,7 @@
 - [**AngleCalculator**](https://github.com/Bin-Cao/WPEM/tree/main/AngleCalculator) — Calculates the angle between two vectors given lattice constants *(a, b, c)* and lattice angles *(α, β, γ)*.
 - [**exQE**](https://mp.weixin.qq.com/s/vRbKu7cogBuTXGGxixhKMA) — Assistive tools for DFT calculation, modeling, and data processing in [Quantum Espresso](https://www.quantum-espresso.org/).
 
-📌 For more details, please visit the [Kaggle Competition Page](https://www.kaggle.com/competitions/simxrd).
+
 
 ---
 
