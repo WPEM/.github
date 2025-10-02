@@ -47,5 +47,5 @@ For inquiries, please contact: **bcao686@connect.hkust-gz.edu.cn (Dr. Bin Cao)**
 🚀 Development of WPEM started in 2020, with a strong commitment to **precision and open science**. All code will be made openly available upon the final publication of our work.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/78ce987e-99e0-4dd1-8aec-977c45752201" alt="Research Highlight" width="65%">
+  <img src="https://github.com/user-attachments/assets/78ce987e-99e0-4dd1-8aec-977c45752201" alt="Research Highlight" width="45%">
 </p>
