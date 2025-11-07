@@ -58,7 +58,7 @@ For inquiries, please contact: **bcao686@connect.hkust-gz.edu.cn (Dr. Bin Cao)**
       <b>For any inquiries or assistance, feel free to contact Mr. CAO Bin at:</b><br>
       📧 Email: <a href="mailto:bcao686@connect.hkust-gz.edu.cn">bcao686@connect.hkust-gz.edu.cn</a><br><br>
       Cao Bin is a PhD candidate at the <b>Hong Kong University of Science and Technology (Guangzhou)</b>, 
-      under the supervision of Professor [Zhang Tong-Yi](https://gbaaa.org.hk/en-us/article/67). His research focuses on 
+      under the supervision of Professor <a href="https://gbaaa.org.hk/en-us/article/67">Zhang Tong-Yi</a>. His research focuses on 
       <b>AI for science</b>, especially intelligent crystal-structure analysis and discovery. 
       Learn more about his work on his 
       <a href="https://www.caobin.asia/">homepage</a>.
