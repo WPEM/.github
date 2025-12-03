@@ -32,7 +32,7 @@
 
 ---
 
-## 🔑 Key Resources
+## Key Resources
 
 - [**XRED**](https://github.com/WPEM/XRED) — X-ray Phase Identification Public Experimental Dataset (XRED)
 - [**SimXRD-4M**](https://github.com/Bin-Cao/SimXRD) — X-ray Symmetry Identification Database & Benchmark | [ICLR](https://openreview.net/pdf?id=mkuB677eMM)
@@ -42,7 +42,7 @@
 
 ---
 
-## 🧰 Toolkit
+## Toolkit
 
 - [**AngleCalculator**](https://github.com/Bin-Cao/WPEM/tree/main/AngleCalculator) — Calculates the angle between two vectors given lattice constants *(a, b, c)* and lattice angles *(α, β, γ)*.
 - [**exQE**](https://mp.weixin.qq.com/s/vRbKu7cogBuTXGGxixhKMA) — Assistive tools for DFT calculation, modeling, and data processing in [Quantum Espresso](https://www.quantum-espresso.org/).
@@ -51,7 +51,7 @@
 
 ---
 
-## ℹ️ About [WPEM](https://github.com/Bin-Cao/WPEM)
+## About [WPEM](https://github.com/Bin-Cao/WPEM)
 
 **WPEM** is dedicated to unraveling intricate crystal structures and resolving heavily overlapping Bragg peaks in mixed X-rays and polycrystalline powder diffraction.  
 
@@ -61,10 +61,10 @@ Our contributions include:
 - Investigation of **complex solid solution structures**  
 - Computation of **scattering information** in organized processes  
 
-📬 We welcome collaborations and provide support in **X-ray diffraction pattern refinement**.  
+We welcome collaborations and provide support in **X-ray diffraction pattern refinement**.  
 For inquiries, please contact: **bcao686@connect.hkust-gz.edu.cn (Dr. Bin Cao)**  
 
-🚀 Development of WPEM started in 2020, with a strong commitment to **precision and open science**. All code will be made openly available upon the final publication of our work.
+Development of WPEM started in 2020, with a strong commitment to **precision and open science**. All code will be made openly available upon the final publication of our work.
 
 
 
