@@ -27,7 +27,7 @@
 # AI XRD Analyzer : [**WPEM**](https://figshare.com/ndownloader/files/51378833)
 
 <p align="center">
-  <a href="https://bin-cao.github.io/caobin/-wpem"><b>Application in Researches →</b></a>
+  <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=WPEM+XRD&btnG="><b>Application in Researches →</b></a>
 </p>
 
 ---
