@@ -1,17 +1,21 @@
-
 <table>
   <tr>
     <td width="160" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/7e77bd5a-42d6-45db-b8e6-2c82cac81b9d" width="140" style="border-radius: 50%;"/>
     </td>
     <td valign="top">
-      <b>For any inquiries or assistance, feel free to contact Mr. CAO Bin at:</b><br>
-      📧 Email: <a href="mailto:bcao686@connect.hkust-gz.edu.cn">bcao686@connect.hkust-gz.edu.cn</a><br><br>
-      Cao Bin is a PhD candidate at the <b>Hong Kong University of Science and Technology (Guangzhou)</b>, 
-      under the supervision of Professor <a href="https://gbaaa.org.hk/en-us/article/67">Zhang Tong-Yi</a>. His research focuses on 
-      <b>AI for science</b>, especially intelligent crystal-structure analysis and discovery. 
-      Learn more about his work on his 
-      <a href="https://www.caobin.asia/">homepage</a>.
+      <b>Contact</b><br>
+      For inquiries or collaboration opportunities, please contact:<br>
+      📧 <a href="mailto:bcao686@connect.hkust-gz.edu.cn">bcao686@connect.hkust-gz.edu.cn</a><br><br>
+
+      <b>Cao Bin</b> is a PhD candidate at the 
+      <b>Hong Kong University of Science and Technology (Guangzhou)</b>, 
+      supervised by Professor 
+      <a href="https://gbaaa.org.hk/en-us/article/67">Tong-Yi Zhang</a>. 
+      His research focuses on <b>AI for Science</b>, particularly 
+      intelligent crystal structure analysis and materials discovery.  
+      More information can be found on his 
+      <a href="https://www.caobin.asia/">personal homepage</a>.
     </td>
   </tr>
 </table>
@@ -19,56 +23,86 @@
 ---
 
 <p align="center">
-  <a href="https://figshare.com/ndownloader/files/51378833" target="_blank">
+  <a href="https://bin-cao.github.io/PyWPEM" target="_blank">
     <img src="https://github.com/WPEM/.github/assets/86995074/aa7a74f6-61b3-4645-8533-8abb70d30ee6" alt="WPEM Screenshot" width="70%">
   </a>
 </p>
 
-# AI XRD Analyzer : [**WPEM**](https://figshare.com/ndownloader/files/51378833)
+<h1 align="center">
+AI XRD Analyzer — <b>WPEM</b>
+</h1>
 
 <p align="center">
-  <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=WPEM+XRD&btnG="><b>Application in Researches →</b></a>
+Advanced AI-driven analysis for X-ray diffraction patterns
 </p>
 
 ---
 
-## Key Resources
+# Overview
 
-- [**XRED**](https://github.com/WPEM/XRED) — X-ray Phase Identification Public Experimental Dataset (XRED)
-- [**SimXRD-4M**](https://github.com/Bin-Cao/SimXRD) — X-ray Symmetry Identification Database & Benchmark | [ICLR](https://openreview.net/pdf?id=mkuB677eMM)
-- [**CPICANN**](https://github.com/WPEM/CPICANN) — Crystallographic Phase Identifier with Convolutional Self-Attention Neural Network (CPICANN) | [IUCrJ](https://doi.org/10.1107/S2052252524005323)
-- [**Bgolearn**](https://github.com/Bin-Cao/Bgolearn) — Bayesian Global Optimization Package for Site Optimization in XRD Refinement | [M&D](https://www.sciencedirect.com/science/article/pii/S0264127524002946?via%3Dihub)
-- [**XQueryer**](https://xqueryer.caobin.asia/) — AI-driven Advanced PXRD Identification Platform | [Natl. Sci. Rev.](https://doi.org/10.1093/nsr/nwaf421)
+**WPEM (Whole Pattern Evolution Model)** is an AI-assisted framework for **high-precision analysis of X-ray diffraction (XRD) patterns**.  
 
----
+The project focuses on resolving complex diffraction signals in **polycrystalline and mixed-phase materials**, enabling reliable identification of subtle structural variations and overlapping Bragg peaks.
 
-## Toolkit
-
-- [**AngleCalculator**](https://github.com/Bin-Cao/WPEM/tree/main/AngleCalculator) — Calculates the angle between two vectors given lattice constants *(a, b, c)* and lattice angles *(α, β, γ)*.
-- [**exQE**](https://mp.weixin.qq.com/s/vRbKu7cogBuTXGGxixhKMA) — Assistive tools for DFT calculation, modeling, and data processing in [Quantum Espresso](https://www.quantum-espresso.org/).
-
-
+The development of WPEM began in **2020**, aiming to provide a **high-accuracy computational tool for diffraction-based materials characterization**.
 
 ---
 
-## About [WPEM](https://github.com/Bin-Cao/WPEM)
+# Key Capabilities
 
-**WPEM** is dedicated to unraveling intricate crystal structures and resolving heavily overlapping Bragg peaks in mixed X-rays and polycrystalline powder diffraction.  
+WPEM provides several advanced functionalities for XRD analysis:
 
-Our contributions include:  
-- Precise detection of subtle structural differences (e.g., **α phase vs. α′ phase in Ti-Ni alloys**)  
-- Differentiation of **amorphous vs. crystalline** contributions in polybutene  
-- Investigation of **complex solid solution structures**  
-- Computation of **scattering information** in organized processes  
+### 1. Subtle Phase Identification
+Detects small structural variations such as:
 
-We welcome collaborations and provide support in **X-ray diffraction pattern refinement**.  
-For inquiries, please contact: **bcao686@connect.hkust-gz.edu.cn (Dr. Bin Cao)**  
+- **α phase vs. α′ phase in Ti–Ni alloys**
+- closely related crystallographic polymorphs
 
-Development of WPEM started in 2020, with a strong commitment to **precision and open science**. All code will be made openly available upon the final publication of our work.
+### 2. Amorphous–Crystalline Separation
+Separates amorphous background contributions from crystalline diffraction signals, demonstrated in systems such as:
 
+- **polybutene**
+- partially ordered polymer structures
 
+### 3. Complex Solid-Solution Analysis
+Supports structural investigation of:
 
+- multi-component alloys  
+- complex solid-solution systems
 
+### 4. Diffraction Scattering Computation
+Provides structured computation and analysis of diffraction scattering information across the full diffraction pattern.
 
+---
 
+# Demonstration
 
+Interactive demo and documentation are available at:
+
+🔗 https://bin-cao.github.io/PyWPEM
+
+The website includes:
+
+- example diffraction patterns
+- analysis workflow
+- visualization tools
+
+---
+
+# Collaboration
+
+We welcome collaborations in:
+
+- X-ray diffraction analysis  
+- crystal structure refinement  
+- AI-driven materials characterization  
+
+If you are interested in applying **WPEM** to your research, please feel free to reach out.
+
+📧 **bcao686@connect.hkust-gz.edu.cn**
+
+---
+
+# Citation
+
+If you use this work in your research, please cite the [paper](https://github.com/Bin-Cao/PyWPEM).
