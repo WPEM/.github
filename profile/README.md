@@ -1,26 +1,3 @@
-<table>
-  <tr>
-    <td width="160" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/7e77bd5a-42d6-45db-b8e6-2c82cac81b9d" width="140" style="border-radius: 50%;"/>
-    </td>
-    <td valign="top">
-      <b>Contact</b><br>
-      For inquiries or collaboration opportunities, please contact:<br>
-      📧 <a href="mailto:bcao686@connect.hkust-gz.edu.cn">bcao686@connect.hkust-gz.edu.cn</a><br><br>
-
-      <b>Cao Bin</b> is a PhD candidate at the 
-      <b>Hong Kong University of Science and Technology (Guangzhou)</b>, 
-      supervised by Professor 
-      <a href="https://gbaaa.org.hk/en-us/article/67">Tong-Yi Zhang</a>. 
-      His research focuses on <b>AI for Science</b>, particularly 
-      intelligent crystal structure analysis and materials discovery.  
-      More information can be found on his 
-      <a href="https://www.caobin.asia/">personal homepage</a>.
-    </td>
-  </tr>
-</table>
-
----
 
 <p align="center">
   <a href="https://bin-cao.github.io/PyWPEM" target="_blank">
