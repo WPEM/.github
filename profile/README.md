@@ -11,7 +11,7 @@
 
 ## About WPEM
 
-**WPEM (Whole Pattern Evolution Model)** is a research project dedicated to resolving complex crystal structures and heavily overlapping Bragg peaks in **mixed X-ray diffraction and polycrystalline powder diffraction data**.
+**WPEM** is a research project dedicated to resolving complex crystal structures and heavily overlapping Bragg peaks in **mixed X-ray diffraction and polycrystalline powder diffraction data**.
 
 The project is led by **[Bin Cao](https://bin-cao.github.io/)** and focuses on combining **physics-based diffraction theory with modern AI techniques** to improve the reliability and precision of structural characterization.
 
